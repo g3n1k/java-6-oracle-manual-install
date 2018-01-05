@@ -4,7 +4,6 @@ import sys
 # """
 path	= sys.argv[1] #'_etc_alternatives'
 with open(path) as f:
-	os.system("mkdir -p "+folder)
 	for line_f in f:
 		line = line_f.rstrip('\n')
 		split = line.split(' -> ')
