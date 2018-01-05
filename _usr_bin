@@ -1,0 +1,7 @@
+/usr/bin/java -> /etc/alternatives/java
+/usr/bin/javac -> /etc/alternatives/javac
+/usr/bin/javadoc -> /etc/alternatives/javadoc
+/usr/bin/javah -> /etc/alternatives/javah
+/usr/bin/javap -> /etc/alternatives/javap
+/usr/bin/java_vm -> /etc/alternatives/java_vm
+/usr/bin/javaws -> /etc/alternatives/javaws
