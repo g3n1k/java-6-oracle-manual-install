@@ -1,7 +1,10 @@
 #!/bin/bash
 # create folder for jvm, we will hold all java version here
 sudo mkdir -p /usr/lib/jvm/
-# copy folder java
+# extract rt.jar (limit with 50MB github)
+tar -zxvf rt.jar.tar.gz
+mv rt.jar java-6-oracle/jre/lib/rt.jar
+# copy all folder  java
 sudo cp -r java-6-oracle /usr/lib/jvm/
 # create alternatives link
 sudo python ln.py _etc_alternatives
