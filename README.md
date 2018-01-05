@@ -16,7 +16,8 @@ __HOW TO__
     clone https://github.com/g3n1k/java-6-oracle-manual-install.git
    ```
 1. execute run.sh with sudo    
-   ```sudo sh java-6-oracle-manual-install/run.sh  
+   ```
+   sudo sh java-6-oracle-manual-install/run.sh  
    ```
 1. make coffee and relax
 1. debug if there error
