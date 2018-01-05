@@ -13,12 +13,11 @@ i test this manual in [Bunsenlab distro](https://www.bunsenlabs.org/) which usin
 __HOW TO__  
 1. clone   
    ```
-   clone https://github.com/g3n1k/java-6-oracle-manual-install.git
+    clone https://github.com/g3n1k/java-6-oracle-manual-install.git
    ```
 1. execute run.sh with sudo    
-   ```
-  cd java-6-oracle-manual-install    
-  sudo sh run.sh  
+   ```cd java-6-oracle-manual-install    
+    sudo sh run.sh  
    ```
 1. make coffee and relax
 1. debug if there error
