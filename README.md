@@ -18,7 +18,7 @@ __HOW TO__
 1. execute run.sh with sudo    
    ```
   cd java-6-oracle-manual-install    
-  sudo sh run.sh
+  sudo sh run.sh  
    ```
 1. make coffee and relax
 1. debug if there error
